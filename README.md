@@ -7,7 +7,7 @@ Regular folks : use simpler language relatable analogies thyy prefer to focus on
 ## 2. What are some strategies to tailor your content to different audience types? 
 1. Knowing the audience target itscrucial to know there wants 2.Providing Multiple depths by offering summaries for beginners, 3. Adjust language & tone  for better understanding so that people can relate well prefferably use jargon for experts. 4.Format redablitity by using headlights, bullet points and visuals to break crusial infomation.
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
- 1. By conducting surveys to get accurate feedback. 2. By using data analytics or engage data from past contents, 3. Its crucial to observe questions ,prior discussions and feedback.
+ 1. By conducting surveys to get accurate feedback. 2. By using data analytics or engage data from past contents, 3. Its crucial to observe questions ,prior discussions and feedback. 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 1. By Providing step by step visuals. 2.By using simple languages and avoid Jargon since its for experts. 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
